@@ -16,4 +16,4 @@ if ($conn->query($sql) === TRUE) {
 
 $conn->close();
 ?>
-<a href="addMember.php">Add another post</a>
+<a href="addAPost.php">Add another post</a>
